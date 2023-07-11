@@ -10,6 +10,7 @@ import org.terasoluna.gfw.common.message.ResultMessages;
 
 import com.example.security.domain.model.Account;
 import com.example.security.domain.repository.account.AccountRepository;
+import com.example.security.domain.repository.account.*;
 
 @Service
 public class AccountSharedServiceImpl implements AccountSharedService {

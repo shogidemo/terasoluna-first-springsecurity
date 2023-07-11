@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: shogi
+Build-Jdk: Oracle OpenJDK version 17.0.6
+Implementation-Title: TERASOLUNA Server Framework for Java (5.x) Web Bla
+ nk Project (MyBatis3)
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.example.security
+
